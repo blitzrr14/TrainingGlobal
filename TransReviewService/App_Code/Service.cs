@@ -32,6 +32,7 @@ public class Service : IService
     private Int32 Counter = 0;
     private DateTime dt;
     private Int32 isUse365Global = 1;
+    private String Brader = string.Empty;
 
     public Service() 
     { 
